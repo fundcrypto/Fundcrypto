@@ -1,0 +1,22 @@
+{
+  "name": "fundcrypto",
+  "version": "1.0.0",
+  "description": "FUNDCRYPTO",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fundcrypto/Fundcrypto.git"
+  },
+  "keywords": [
+    "fundcrypto"
+  ],
+  "author": "fundcrypto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fundcrypto/Fundcrypto/issues"
+  },
+  "homepage": "https://github.com/fundcrypto/Fundcrypto#readme"
+}
